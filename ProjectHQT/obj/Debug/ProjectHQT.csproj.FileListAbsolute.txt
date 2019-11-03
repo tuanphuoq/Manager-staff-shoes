@@ -1,0 +1,17 @@
+F:\HQTCSDL\ProjectHQT\ProjectHQT\bin\Debug\ProjectHQT.exe.config
+F:\HQTCSDL\ProjectHQT\ProjectHQT\bin\Debug\ProjectHQT.exe
+F:\HQTCSDL\ProjectHQT\ProjectHQT\bin\Debug\ProjectHQT.pdb
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.csprojAssemblyReference.cache
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.Properties.Resources.resources
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.csproj.GenerateResource.cache
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.csproj.CoreCompileInputs.cache
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.exe
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.pdb
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.f_login.resources
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.f_main.resources
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.f_admin.resources
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.f_adduser.resources
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.f_manager.resources
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.f_user.resources
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.f_store.resources
+F:\HQTCSDL\ProjectHQT\ProjectHQT\obj\Debug\ProjectHQT.f_pay.resources
